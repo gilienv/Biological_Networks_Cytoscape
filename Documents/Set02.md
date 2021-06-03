@@ -4,6 +4,11 @@ The following topics will be covered in this session, please click on each title
 
 ## <a href=/Documents/Creating_Networks.md> CREATING NETWORKS </a>
 
-## NAVIGATION & LAYOUT
+## <a href=/Documents/Navigation_and_Layout.md>  NAVIGATION & LAYOUT </a>
 
-Please go to <a href=/Documents/> CREATING NETWORKS </a>for notes on Visualisation.
+## <a href=/Documents/Styles.md> VISUAL STYLES </a>
+
+## <a href=/Documents/Supported_Network_File_Formats.md> FILE FORMATS </a>
+
+## <a href=/Documents/Network_Analyzer.md> NETWORK ANALYSER </a>
+
