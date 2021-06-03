@@ -3,8 +3,11 @@ This is a one day training course on Network Creation, Visualisation and Partiti
 
 # Timetable
 09:30 - 11:00	Introduction & Set Up
+
               Background & Concepts
+	      
               Basic Topologies & Case Study
+	      
               Set up & Installation
 
 11:00 - 11:15	COFFEE BREAK (15 minutes)
