@@ -29,7 +29,7 @@ If you have any problems with any of these requirements or are at all uncertain 
 
 ## Instructor
 
-<a href= http://www.nipgr.res.in/research/dr_gyadav.php>Dr Gitanjali Yadav | University of Cambridge/NIPGR</a>
+<a href= http://www.nipgr.ac.in/research/dr_gyadav.php> Dr Gitanjali Yadav | University of Cambridge / NIPGR</a>
 
 
 ## Helpers & Volunteers
