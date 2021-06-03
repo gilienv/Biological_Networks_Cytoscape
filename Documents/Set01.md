@@ -1,7 +1,7 @@
-## MORNING SESSION 
+# INTRODUCTION & SET UP
 
 
-# INSTALLATION INSTRUCTIONS
+## INSTALLATION INSTRUCTIONS
 
 Please go to https://cytoscape.org/download.html for downloading and installing the software. This is important to have on your devices before the training course.
 
