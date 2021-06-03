@@ -7,6 +7,10 @@ Complex natural systems permeate many aspects of everyday life—including human
 ## Course Content & Pre-Requisites
 This is a one day long workshop with lectures, Hands-on modules and exercises for use of <a href=https://cytoscape.org> Cytoscape</a> in biological data analysis. The course is expected to be data intensive and participants are required to pre-install the software on their own devices as a pre-requisite.
 
+## Intallation Instructions
+Please go to https://cytoscape.org/download.html for downloading and installing the software. This is important to have on your devices before the training course.
+
+If you have any problems with any of these requirements or are at all uncertain about your ability to complete the technical elements of the course, please contact our IT Manager, Paul Judge on pj237@cam.ac.uk. or contact Instructor G.Yadav on gy@nipgr.ac.in
 
 ## Course Schedule and Social Media Tags
 * Please find the Workshop program <a href=/Documents/schedule.md>here</a>.
