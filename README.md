@@ -14,13 +14,13 @@ This is a one day long workshop with lectures, Hands-on modules and exercises fo
 * Please tag @gilienv (Instructor) and use Hashtags <code>#PFH</code> when you tweet or post about the event.
 
 ## Course Pages
-<a href=/Documents/Set01.md> Morning </a> : Session 1
+<a href=/Documents/Set01.md> Morning </a> : Session 1 : Introduction & Set Up
 
-<a href=/Documents/Set02.md> Morning </a> : Session 2
+<a href=/Documents/Set02.md> Morning </a> : Session 2 : Creating and Visualizing Networks
 
-<a href=/Documents/Set01.md> Afternoon </a> : Session 3
+<a href=/Documents/Set01.md> Afternoon </a> : Session 3 : Network Partitioning 
 
-<a href=/Documents/Set02.md> Afternoon </a> : Session 4
+<a href=/Documents/Set02.md> Afternoon </a> : Session 4 : Network Aesthetics & Export
 
 
 ## Instructor
