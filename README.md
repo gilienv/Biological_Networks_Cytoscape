@@ -9,7 +9,7 @@ This is a one day long workshop with lectures, Hands-on modules and exercises fo
 
 
 ## Course Schedule and Social Media Tags
-* Please find the Workshop program <a href=/Documents/IHC_R_workshop_Program_Schedule_NIPGR.pdf>here</a>.
+* Please find the Workshop program <a href=/Documents/schedule.md>here</a>.
 
 * Please tag @gilienv (Instructor) and use Hashtags <code>#PFH</code> when you tweet or post about the event.
 
