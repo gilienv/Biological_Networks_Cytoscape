@@ -6,6 +6,9 @@ Complex natural systems permeate many aspects of everyday life—including human
 
 ## Course Content & Pre-Requisites
 This is a one day long workshop with lectures, Hands-on modules and exercises for use of <a href=https://cytoscape.org> Cytoscape</a> in biological data analysis. The course is expected to be data intensive and participants are required to pre-install the software on their own devices as a pre-requisite.
+This course makes use of the Cytoscape 3.8 architecture. 
+Much of the content is based on the <a href= http://www.cgl.ucsf.edu/home/scooter/CSB/Introduction_to_Cytoscape.pdf> Cytoscape Manual </a>, highly recommended.  
+
 
 ## Intallation Instructions
 Please go to https://cytoscape.org/download.html for downloading and installing the software. This is important to have on your devices before the training course.
