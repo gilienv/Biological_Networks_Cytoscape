@@ -1,18 +1,9 @@
 # CREATING & VISUALISING NETWORKS
 
+The following topics will be covered in this session, please click on each title to learn more about it:
 
-## INSTALLATION INSTRUCTIONS
+## <a href=/Documents/Creating_Networks.md> CREATING NETWORKS </a>
 
-Please go to https://cytoscape.org/download.html for downloading and installing the software. This is important to have on your devices before the training course.
-
-If you have any problems with any of these requirements or are at all uncertain about your ability to complete the technical elements of the course, please contact our IT Manager, Paul Judge on pj237@cam.ac.uk.  
-
-
-## CREATING NETWORKS
-
-Please go to <a href=/Documents/Creating_Networks.md> CREATING NETWORKS </a> for notes on Network Creation
-
-
-## VISUALIZING NETWORKS
+## NAVIGATION & LAYOUT
 
 Please go to <a href=/Documents/> CREATING NETWORKS </a>for notes on Visualisation.
