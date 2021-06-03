@@ -32,7 +32,7 @@ This is a one day training course on Network Creation, Visualisation and Partiti
 
 15:30 - 17:00	Network Aesthetics
 
-                Tips and Tricks
+             Tips and Tricks
              	
 		Annotate, Download and Export Networks
               
