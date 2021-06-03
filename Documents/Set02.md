@@ -10,7 +10,7 @@ If you have any problems with any of these requirements or are at all uncertain 
 
 ## CREATING NETWORKS
 
-Please go to <a href=/Documents/> CREATING NETWORKS </a> for notes on Network Creation
+Please go to <a href=/Documents/Creating_Networks.md> CREATING NETWORKS </a> for notes on Network Creation
 
 
 ## VISUALIZING NETWORKS
