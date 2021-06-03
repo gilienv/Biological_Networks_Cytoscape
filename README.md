@@ -18,9 +18,9 @@ This is a one day long workshop with lectures, Hands-on modules and exercises fo
 
 <a href=/Documents/Set02.md> Morning </a> : Session 2 : Creating and Visualizing Networks
 
-<a href=/Documents/Set01.md> Afternoon </a> : Session 3 : Network Partitioning 
+<a href=/Documents/Set03.md> Afternoon </a> : Session 3 : Network Partitioning 
 
-<a href=/Documents/Set02.md> Afternoon </a> : Session 4 : Network Aesthetics & Export
+<a href=/Documents/Set04.md> Afternoon </a> : Session 4 : Network Aesthetics & Export
 
 
 ## Instructor
