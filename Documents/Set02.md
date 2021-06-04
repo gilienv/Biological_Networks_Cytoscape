@@ -14,8 +14,6 @@ The following topics will be covered in this session, please click on each title
 
 ## EXERCISE & CHALLENGE
 
-# Data for Exercise: TBA
+ Data for Exercise: TBA
 
-# Challenge: 
-
-Create your Own Network using the data provided.
+Challenge:  Create your Own Network using the data provided.
