@@ -18,3 +18,7 @@ Get a <a href= /Documents/Quick_Tour_of_Cytoscape.md> Quick Tour of Cytoscape </
 ## Exercise
 
 In this session, we will check our installation and set up.
+
+## LOADING NETWORKS
+
+DIY: Try the Cytoscape <a href=https://cytoscape.org/cytoscape-tutorials/protocols/loading-networks/#/>Loading Networks</a> Tutorial!
