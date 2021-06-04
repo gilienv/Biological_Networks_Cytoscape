@@ -11,11 +11,15 @@ If you have any problems with any of these requirements or are at all uncertain 
 
 Try <a href= /Documents/Launching_Cytoscape.md>Launching Cytoscape </a> once you have installed it.
 
+## INTERFACE
+
+Learn about the five <a href= /Documents/Panels.md>Panels </a> on the Cytoscape Interface.
+
 ## QUICK TOUR
 
 Get a <a href= /Documents/Quick_Tour_of_Cytoscape.md> Quick Tour of Cytoscape </a>.
 
-## Exercise
+## EXERCISE
 
 In this session, we will check our installation and set up.
 
