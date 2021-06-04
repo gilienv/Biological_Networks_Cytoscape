@@ -12,3 +12,10 @@ The following topics will be covered in this session, please click on each title
 
 ## <a href=/Documents/Network_Analyzer.md> NETWORK ANALYSER </a>
 
+## EXERCISE & CHALLENGE
+
+# Data for Exercise: TBA
+
+# Challenge: 
+
+Create your Own Network using the data provided.
