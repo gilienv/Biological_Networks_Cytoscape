@@ -1,8 +1,13 @@
-# NETWORK AESTHETICS 
+# NETWORK AESTHETICS  
 
+The following topics will be covered in this session, please click on each title to learn more about it:
 
-## INSTALLATION INSTRUCTIONS
+## <a href=/Documents/Annotation.md> ANNOTATION </a>
 
-Please go to https://cytoscape.org/download.html for downloading and installing the software. This is important to have on your devices before the training course.
+## <a href=/Documents/Export_Your_Data.md>  DATA EXPORT </a>
 
-If you have any problems with any of these requirements or are at all uncertain about your ability to complete the technical elements of the course, please contact our IT Manager, Paul Judge on pj237@cam.ac.uk.  
+## EXERCISE & CHALLENGE
+
+ Data for Exercise: TBA
+
+Challenge: Get High Resolution Annotated Figures and Export a Network using the data provided.
