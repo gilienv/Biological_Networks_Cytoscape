@@ -1,5 +1,9 @@
 # NETWORK PARTITIONING 
 
+## INSTALLING NEW APPS
+
+Cytoscape's basic capabilities can be expanded with apps. Learn more <a href=/Documents/App_Manager.md> here </a>.
+
 
 ## CLUSTERING
 
