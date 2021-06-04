@@ -12,4 +12,4 @@ Try the <a href=https://cytoscape.org/cytoscape-tutorials/protocols/basic-data-v
 
 Data for Exercise: TBA
 
-Challenge:  Analyse the Network provided.
+Challenge:  Partition the Network provided in two different ways
