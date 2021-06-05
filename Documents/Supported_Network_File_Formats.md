@@ -93,7 +93,7 @@ defined in SIF format, node names should be unique, as identically named
 nodes will be treated as identical nodes. The name of each node will be
 the name in this file by default (unless another string is mapped to
 display on the node using styles). This is discussed in the section on <a href=https://github.com/gilienv/cytoscape-manual/blob/c9bf7dd6d796ee67ca4d18547970400678209532/docs/Styles.md>
-**[Styles}**.
+**[Styles}**</a>.
 The name of each edge will be formed from the name of the source and
 target nodes plus the interaction type: for example,
 `sourceName (edgeType) targetName`.
