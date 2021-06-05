@@ -19,16 +19,13 @@ Learn about the five <a href= /Documents/Panels.md>Panels </a> on the Cytoscape 
 
 Get a <a href= /Documents/Quick_Tour_of_Cytoscape.md> Quick Tour of Cytoscape </a>.
 
-## EXERCISE
+## EXERCISE : LOADING NETWORKS
 
 In this session, we will check our installation and set up.
 
+We will then Try the Cytoscape <a href=https://cytoscape.org/cytoscape-tutorials/protocols/loading-networks/#/>Loading Networks</a> Tutorial!
+
 Link to load data Directly from a public URL: <a href=https://raw.githubusercontent.com/cytoscape/cytoscape-tutorials/gh-pages/protocols/data/BasicDataVizDemo.xgmml> Use This Example XGMML File</a>
-
-## LOADING NETWORKS
-
-DIY: Try the Cytoscape <a href=https://cytoscape.org/cytoscape-tutorials/protocols/loading-networks/#/>Loading Networks</a> Tutorial!
-
      
 ## End of Session 01
 ---
