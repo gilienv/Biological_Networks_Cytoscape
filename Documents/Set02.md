@@ -6,7 +6,7 @@ The following topics will be covered in this session, please click on each title
 
 ## <a href=/Documents/Navigation_and_Layout.md>  NAVIGATION & LAYOUT </a>
 
-## <a href=/Documents/Styles.md> VISUAL STYLES </a>
+## <a href=https://github.com/gilienv/cytoscape-manual/blob/c9bf7dd6d796ee67ca4d18547970400678209532/docs/Styles.md> VISUAL STYLES </a>
 
 ## <a href=/Documents/Supported_Network_File_Formats.md> FILE FORMATS </a>
 
