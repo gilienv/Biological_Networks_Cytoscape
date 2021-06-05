@@ -23,8 +23,7 @@ Get a <a href= /Documents/Quick_Tour_of_Cytoscape.md> Quick Tour of Cytoscape </
 
 In this session, we will check our installation and set up.
 
-Link to load data Directly from a public URL: <a href=URL: https://raw.githubusercontent.com/cytoscape/cytoscape-tutorials/gh-pages/protocols/data/BasicDataVizDemo.xgmml
->Use This Example XGMML File</a>
+Link to load data Directly from a public URL: <a href=https://raw.githubusercontent.com/cytoscape/cytoscape-tutorials/gh-pages/protocols/data/BasicDataVizDemo.xgmml> Use This Example XGMML File</a>
 
 ## LOADING NETWORKS
 
