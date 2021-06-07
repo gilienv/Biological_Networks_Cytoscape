@@ -46,11 +46,11 @@ Mlecnik B, Galon J, Bindea G. Comprehensive functional analysis of large lists o
 
 ## Related Courses 
 
-EMBL-EBI: Network Analysis with Cytoscape (Online)
+<a href=https://training.csx.cam.ac.uk/bioinformatics/event/3688978>EMBL-EBI: Network Analysis with Cytoscape (Online)</a>
 
-Inferring Co-Expressing Genes and Regulatory Networks from RNA-Seq Data
+<a href=https://training.csx.cam.ac.uk/bioinformatics/event/3516387>Inferring Co-Expressing Genes and Regulatory Networks from RNA-Seq Data</a>
 
-Identification of Eigen-genes, consensus modules and Network Motifs in co-expression (or other biological) networks.
+<a href=https://training.csx.cam.ac.uk/bioinformatics/event/3516410>Identification of Eigen-genes, consensus modules and Network Motifs in co-expression (or other biological) networks.</a>
 
 
 ## Course Schedule and Social Media Tags
