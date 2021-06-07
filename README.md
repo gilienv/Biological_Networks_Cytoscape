@@ -15,11 +15,6 @@ Please go to https://cytoscape.org/download.html for downloading and installing 
 
 If you have any problems with any of these requirements or are at all uncertain about your ability to complete the technical elements of the course, please contact our IT Manager, Paul Judge on pj237@cam.ac.uk. or contact Instructor G.Yadav on gy@nipgr.ac.in
 
-## Course Schedule and Social Media Tags
-* Please find the Workshop program <a href=/Documents/schedule.md>here</a>.
-
-* Please tag @gilienv (Instructor) and use Hashtags <code>#PFH</code> when you tweet or post about the event.
-
 ## Course Pages
 <a href=/Documents/Set01.md> Morning </a> : Session 1 : Introduction & Set Up
 
@@ -29,6 +24,39 @@ If you have any problems with any of these requirements or are at all uncertain 
 
 <a href=/Documents/Set04.md> Afternoon </a> : Session 4 : Network Aesthetics & Export
 
+## Further reading 
+
+What is Cytocape? https://cytoscape.org/what_is_cytoscape.html
+
+Cline, M., Smoot, M., Cerami, E. et al. Integration of biological networks and gene expression data using Cytoscape. Nat Protoc 2, 2366–2382 (2007). https://doi.org/10.1038/nprot.2007.324 
+
+Kohl et al. (2011) Cytoscape: software for visualization and analysis of biological networks. Methods Mol Biol 696:291-303.(pmid: 21063955)
+
+Shannon et al. (2003) Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res 13:2498-504. (pmid: 14597658)
+
+Travel Guide to Cytoscape Plugins: aro Saito, Michael E Smoot, Keiichiro Ono, JohannesRuscheinski,  Peng-Liang Wang, Samad Lotia, Alexander R Pico, Gary D Bader, Trey  Ideker (2012)Nature Methods 9 (11) p. 1069-1076
+
+Mlecnik B, Galon J, Bindea G. Comprehensive functional analysis of large lists of genes and proteins. J Proteomics. 2018 Jan 16;171:2-10. doi: 10.1016/j.jprot.2017.03.016. Epub 2017 Mar 22. PMID: 28343001.
+
+Cytoscape 3.8.2 Manual 
+
+Cytoscape Support
+
+Cytoscape Bug Reporting
+
+## Related Courses 
+
+EMBL-EBI: Network Analysis with Cytoscape (Online)
+
+Inferring Co-Expressing Genes and Regulatory Networks from RNA-Seq Data
+
+Identification of Eigen-genes, consensus modules and Network Motifs in co-expression (or other biological) networks.
+
+
+## Course Schedule and Social Media Tags
+* Please find the Workshop program <a href=/Documents/schedule.md>here</a>.
+
+* Please tag @gilienv (Instructor) and use Hashtags <code>#PFH</code> when you tweet or post about the event.
 
 ## Instructor
 
