@@ -38,11 +38,11 @@ Travel Guide to Cytoscape Plugins: aro Saito, Michael E Smoot, Keiichiro Ono, Jo
 
 Mlecnik B, Galon J, Bindea G. Comprehensive functional analysis of large lists of genes and proteins. J Proteomics. 2018 Jan 16;171:2-10. doi: 10.1016/j.jprot.2017.03.016. Epub 2017 Mar 22. PMID: 28343001.
 
-Cytoscape 3.8.2 Manual 
+<a href=http://manual.cytoscape.org/en/stable/> Cytoscape 3.8.2 Manual</a>
 
-Cytoscape Support
+<a href=https://cytoscape.org/documentation_users.html>Cytoscape Support</a>
 
-Cytoscape Bug Reporting
+<a href=https://cytoscape.org/bug-report.html>Cytoscape Bug Reporting</a>
 
 ## Related Courses 
 
